@@ -1,0 +1,28 @@
+{
+  "name": "euphoria-js",
+  "version": "0.1.0",
+  "description": "A library for creating bots for Euphoria.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArkaneMoose/EuphoriaJS.git"
+  },
+  "author": "Rishov Sarkar <ArkaneMoose@users.noreply.github.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ArkaneMoose/EuphoriaJS/issues"
+  },
+  "homepage": "https://github.com/ArkaneMoose/EuphoriaJS/wiki",
+  "devDependencies": {
+    "chai": "^3.4.1",
+    "mocha": "^2.3.4",
+    "mockery": "^1.4.0",
+    "sinon": "^1.17.2"
+  },
+  "dependencies": {
+    "ws": "^0.8.1"
+  }
+}
